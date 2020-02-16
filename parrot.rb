@@ -1,6 +1,6 @@
 def parrot
-  puts 'Squawk'
-  'Squawk'
+  puts 'Squawk!'
+  'Squawk!'
 end
 
 parrot
